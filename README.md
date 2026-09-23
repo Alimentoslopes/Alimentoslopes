@@ -1,3 +1,5 @@
+[Adicionar banner]
+
 # Alimentos Lopes — Tecnologia & Inovação
 
 > Desde 1994 transformando o agronegócio com fécula de mandioca, polvilhos e amidos especiais para o Brasil e o Mercosul.

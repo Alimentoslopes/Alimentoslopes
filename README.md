@@ -1,4 +1,4 @@
-<img width="1000" height="250" alt="banner-teste" src="https://github.com/user-attachments/assets/bba1fe2d-c127-4ff1-8720-44881871ab3c" />
+<img width="1000" height="250" alt="banner-teste" src="https://github.com/user-attachments/assets/35902228-aa41-43cf-9458-6e9a6132de45" />
 
 # Sobre Nós
 

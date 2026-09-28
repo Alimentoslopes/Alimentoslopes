@@ -1,3 +1,5 @@
+<img width="1128" height="191" alt="fecularia_lopes_ltda_cover" src="https://github.com/user-attachments/assets/639ab525-c98b-4f69-b9d3-b3252e6203da" />
+
 <img width="1000" height="250" alt="banner-teste" src="https://github.com/user-attachments/assets/35902228-aa41-43cf-9458-6e9a6132de45" />
 
 # Sobre Nós

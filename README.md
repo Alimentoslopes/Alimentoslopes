@@ -1,4 +1,4 @@
-<img width="1774" height="574" alt="banner-ti-lopes" src="https://github.com/user-attachments/assets/c1a5fcdd-d784-4882-904a-c9b282ecb317" />
+<img width="1774" height="513" alt="banner-ti-lopes" src="https://github.com/user-attachments/assets/d0ac534f-b7cb-4de9-a0cb-80014c68593c" />
 
 # Sobre Nós
 

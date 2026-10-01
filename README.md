@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="Tecnologia Alimentos Lopes em rede" src="https://github.com/user-attachments/assets/625e737b-4a19-4ef6-a766-fd37f4e46006 />
+<img width="1774" height="887" alt="Tecnologia Alimentos Lopes em rede" src="https://github.com/user-attachments/assets/85f72704-24d9-419f-984f-6afaf3acaf5c" />
 
 # Sobre Nós
 

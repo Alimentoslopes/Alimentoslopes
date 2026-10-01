@@ -1,4 +1,4 @@
-<img width="1128" height="191" alt="fecularia_lopes_ltda_cover" src="https://github.com/user-attachments/assets/639ab525-c98b-4f69-b9d3-b3252e6203da" />
+<img width="1774" height="887" alt="Tecnologia Alimentos Lopes em rede" src="https://github.com/user-attachments/assets/625e737b-4a19-4ef6-a766-fd37f4e46006 />
 
 # Sobre Nós
 
